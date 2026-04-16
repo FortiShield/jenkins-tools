@@ -1,0 +1,16 @@
+wrongLang:
+  - |-
+    i18nspector is not happy:
+    	W: language-disparity en (command-line) != de_DE (Language header field)
+  - Language is not 'en'.
+  - Project-Id-Version is not ''.
+  - Language-Team is not 'CtxOS translators <dev.sulaiman@icloud.com>'.
+
+clean: []
+
+invalidHeaderfilds:
+  - Project-Id-Version is not ''.
+  - Language-Team is not 'CtxOS translators <dev.sulaiman@icloud.com>'.
+  - Last-Translator is not 'CtxOS translators'.
+
+length: []
